@@ -24,7 +24,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/username/repo.git
+git clone [https://github.com/shield-master/telegram-template-bot](https://github.com/shield-master/telegram-template-bot)
 ```
 
 2. Перейдите в директорию проекта:
